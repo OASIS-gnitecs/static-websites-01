@@ -8,7 +8,7 @@ In this repo, you'll be uploading your **Static Website** project.
 Each participant must create a **new folder with their full name** (e.g., `Rohan Gupta`) and upload all their project files inside it.
 
 ```bash
-📂 Web-Dev-Week1-Submissions
+📂 static-websites-01
 ├── Rohan Gupta
 │ ├── index.html
 │ ├── style.css
