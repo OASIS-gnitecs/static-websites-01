@@ -3,12 +3,11 @@
 Welcome to your very first project submission for Web Development Week 1! 🚀  
 In this repo, you'll be uploading your **Static Website** project.
 
----
-
 ## 📁 Folder Structure
 
 Each participant must create a **new folder with their full name** (e.g., `Rohan Gupta`) and upload all their project files inside it.
 
+```bash
 📂 Web-Dev-Week1-Submissions
 ├── Rohan Gupta
 │ ├── index.html
@@ -16,14 +15,13 @@ Each participant must create a **new folder with their full name** (e.g., `Rohan
 │ └── images/
 └── Another Name
 └── ...
+```
 
 ---
 
 ## 🧠 Don't Know Git or GitHub? No Worries!
 
 Follow the steps below **carefully** to upload your project.
-
----
 
 ## ✅ Step-by-Step Guide
 
